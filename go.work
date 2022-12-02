@@ -1,0 +1,8 @@
+go 1.18
+
+use (
+	./01_hello_world
+	./02_hello_webserver
+	./04_basics
+	./05_testing
+)
